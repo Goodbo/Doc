@@ -1,0 +1,5 @@
+* [rxjs whiteBook(chinese)](https://cloud.tencent.com/developer/section/1489401)
+* [rxjs offical doc](https://rxjs.dev/guide/overview)
+* [rxjs primer](https://juejin.im/post/597fe587518825563e037bd3)
+* [rxjs operators](https://rxjs-cn.github.io/learn-rxjs-operators/operators/creation/from.html)
+* [rx marbles](https://rxmarbles.com/#filter)
